@@ -1,6 +1,6 @@
 # Stock Management System
 
-A desktop application built using **JavaFX** designed to efficiently manage warehouse inventory. It allows users to authenticate via a login panel, add various product categories with specific attributes, track stock counts, and view/manage full product descriptions.
+A desktop application built using **Java** designed to efficiently manage warehouse inventory. It allows users to authenticate via a login panel, add various product categories with specific attributes, track stock counts, and view/manage full product descriptions.
 
 ## 🚀 Features
 
@@ -31,5 +31,5 @@ Stock_Management_System/
     ├── TV.java                # TV product subclass
     ├── Blender.java           # Blender product subclass
     ├── UserInfo.java          # Handles user session data
-    ├── loginPane.java         # JavaFX Login dialog panel
+    ├── loginPane.java         # Java Login dialog panel
     └── StockManagementGUI.java# Application entry point & primary dashboard
