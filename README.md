@@ -2,6 +2,8 @@
 
 A desktop application built using **Java** designed to efficiently manage warehouse inventory. It allows users to authenticate via a login panel, add various product categories with specific attributes, track stock counts, and view/manage full product descriptions.
 
+Contributed by: Wong Sin Yew, Chang Joo Yee, Ng Xue En, Wong Xin Tong
+
 ## 🚀 Features
 
 - **User Authentication:** Secure login panel (`loginPane`) capturing User ID and Username before accessing the system.
